@@ -12,7 +12,10 @@ You can two switch scan with Dolphin Guide. Simply connect one switch to Arrow R
 
 ## Cool. How do I get it?
 
-Download it here and run it. I recommend popping it in your startup items
+Download it here and run it. I recommend popping it in your startup items.
+Map your switch to Space Bar. 
+If you need to change the time of the scan (default 800ms) - press Control+Shift+H and type in a number. Its in milliseconds.
+Right now it won't save the time from one session and another.
 
 ## Credits.
 
