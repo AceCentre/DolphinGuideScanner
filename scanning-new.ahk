@@ -1,0 +1,15 @@
+#SingleInstance,Force
+delay:=10
+right:=0
+space::
+right:=!right
+if(right)
+	SetTimer,pressright,%delay%
+else{
+	SetTimer,pressright,Off
+	Send,{enter}
+}
+return
+pressright:
+Send,{right}
+return
