@@ -16,6 +16,6 @@ Download it here and run it. I recommend popping it in your startup items
 
 ## Credits.
 
-Big thanks goes to [@maestrith](https://github.com/maestrith) who very quickly helped me figure out a far neater - and faster solution 
-
+* Big thanks goes to [@maestrith](https://github.com/maestrith) who very quickly helped me figure out a far neater - and faster solution 
+* Thanks to [ARASAAC for the hacked icon of a switch](http://www.arasaac.org/ficha.php?id=6195&id_palabra=3056) with the Dolphin Guide icon 
 
