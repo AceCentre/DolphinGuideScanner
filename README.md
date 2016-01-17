@@ -16,6 +16,6 @@ Download it here and run it. I recommend popping it in your startup items
 
 ## Credits.
 
-Big thanks goes to @maestrith who very quickly helped me figure out a far neater - and faster solution 
+Big thanks goes to [@maestrith](https://github.com/maestrith) who very quickly helped me figure out a far neater - and faster solution 
 
 
