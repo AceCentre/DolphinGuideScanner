@@ -97,5 +97,5 @@ else{
 }
 return
 pressright:
-	Send,{right}
+	Send,{down}
 return
